@@ -102,13 +102,13 @@ export default function MothersEndowment() {
       {/* Donation Buttons */}
       <div className="grid grid-cols-2 gap-4 p-4">
         <button
-          className="bg-[#7a6b9d] text-white p-2 rounded-md text-right font-medium"
+          className="bg-[#7a6b9d] text-white p-4 rounded-md text-right font-medium"
           dir="rtl"
         >
           للمساهمة عبر الاتصال
         </button>
         <button
-          className="bg-[#5e2a8a] text-white p-2 rounded-md text-right font-medium"
+          className="bg-[#5e2a8a] text-white p-4 rounded-md text-right font-medium"
           dir="rtl"
         >
           تصدّق عن أمـك
@@ -117,7 +117,7 @@ export default function MothersEndowment() {
 
       <div className="px-4 pb-4">
         <button
-          className="bg-[#b08bc4] text-white p-2 rounded-md w-full text-right font-medium"
+          className="bg-[#b08bc4] text-white p-4 rounded-md w-full text-right font-medium"
           dir="rtl"
         >
           تصدّق عبـر منصة جود

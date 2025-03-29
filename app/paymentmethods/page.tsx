@@ -41,7 +41,7 @@ export default function PaymentMethods() {
             <div className="flex items-center">
               <div className="w-10 h-10 bg-gray-100 rounded-full flex items-center justify-center mr-4">
                 <Image
-                  src="/placeholder.svg?height=24&width=24"
+                  src="/"
                   alt="Credit Card"
                   width={24}
                   height={24}
@@ -61,7 +61,7 @@ export default function PaymentMethods() {
             <div className="flex items-center">
               <div className="w-10 h-10 bg-gray-100 rounded-full flex items-center justify-center mr-4">
                 <Image
-                  src="/placeholder.svg?height=24&width=24"
+                  src="/ap.png"
                   alt="Apple Pay"
                   width={24}
                   height={24}

@@ -38,21 +38,21 @@ export default function ProfessionalPayment() {
         <div className="flex justify-center mb-6">
           <div className="flex space-x-2">
             <Image
-              src="/placeholder.svg?height=30&width=40"
+              src="/v.png"
               alt="Visa"
-              width={40}
+              width={35}
               height={30}
-              className="h-8 w-auto"
+              className="h-7 w-auto"
             />
             <Image
-              src="/placeholder.svg?height=30&width=40"
+              src="/m.png"
               alt="Mastercard"
               width={40}
               height={30}
               className="h-8 w-auto"
             />
             <Image
-              src="/placeholder.svg?height=30&width=40"
+              src="/ap.png"
               alt="AMEX"
               width={40}
               height={30}
